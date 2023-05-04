@@ -1,0 +1,13 @@
+{
+  "type": "all",
+  "scripts": [
+    {
+      "type": "before",
+      "slot": 0
+    },
+    {
+      "type": "sig",
+      "keyHash": "0"
+    }
+  ]
+}

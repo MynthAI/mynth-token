@@ -1,0 +1,7 @@
+name: Mynth Token
+ticker: MNT
+description: Mynth enables cross-chain swaps for Cardano
+url: https://mynth.ai
+logo: mynth-logo.png
+supply: 100000000
+decimals: 6
